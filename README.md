@@ -1,9 +1,9 @@
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>hojadevidajulian</title>
+    <title>Hoja de Vida - Julián Santiago Sánchez Ospina</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -43,6 +43,7 @@
     <div class="container">
         <h1>Hoja de Vida</h1>
         
+        <img src="IMAGENES/descarga.webp" alt="Foto de Julián Santiago Sánchez Ospina" class=2,5>
         
         <div class="section info">
             <h2>Información Personal</h2>
