@@ -43,7 +43,6 @@
     <div class="container">
         <h1>Hoja de Vida</h1>
         
-        <img src="IMAGENES/HOJADEVIDA.jpg" alt="Foto de Julián Santiago Sánchez Ospina" class=2,5>
         
         <div class="section info">
             <h2>Información Personal</h2>
